@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@pkmn/randoms": "^0.9.35",
+    "@pkmn/sets": "^5.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.7"
+  }
+}

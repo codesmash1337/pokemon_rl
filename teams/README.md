@@ -1,0 +1,1 @@
+This folder is intended to build legal random battle teams.
